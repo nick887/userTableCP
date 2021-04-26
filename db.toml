@@ -1,0 +1,16 @@
+[dbCp]
+username="root"
+password="Xy001211@xy"
+host="127.0.0.1"
+port=3306
+dbName="godb"
+
+
+
+
+[dbOrigin]
+username="test_account"
+password="PivotStudio@2020"
+host="rm-2zeok8s8lj4322wc3do.mysql.rds.aliyuncs.com"
+port=3306
+dbName="husthole_test"

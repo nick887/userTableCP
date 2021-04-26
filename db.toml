@@ -1,6 +1,6 @@
 [dbCp]
 username="root"
-password="Xy001211@xy"
+password="*********"
 host="127.0.0.1"
 port=3306
 dbName="godb"
